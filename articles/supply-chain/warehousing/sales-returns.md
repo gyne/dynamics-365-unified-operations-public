@@ -111,7 +111,7 @@ By applying reason codes to returns, you can help make return patterns easier to
 An important step in the return order process is the assignment of a disposition code to the return order line as part of arrival registration. The disposition code determines the following information:
 
 -   **The financial implications** – Should the customer be credited for the returned items, and should any charges be added to the return order line?
--   **The disposition of the returned item** – Should the item can be added back to inventory, should it be scrapped, or should it be returned to the customer?
+-   **The disposition of the returned item** – Should the item be added back to inventory, should it be scrapped, or should it be returned to the customer?
 -   **The logistics of the returned item** – Should a replacement item be issued to the customer?
 
 In addition to determining how the returned goods are disposed of, disposition codes can cause charges to be applied to the return line. They can also be used to group returns for statistical analysis. Disposition codes are defined as part of the setup of return orders. However, each disposition code must reference one of the built-in disposition actions. The following table lists the built-in disposition codes and their actions. **Important:** If an item should not be returned, but the customer should still be credited, assign the **Credit only** disposition code to the return line.
