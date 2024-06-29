@@ -47,7 +47,7 @@ You should use the inventory transaction adjustment before you run an inventory 
 
 ### Are purchase order returns treated like other issues during the inventory close?
 
-Yes. A purchase order receipt is an issue that is settled to a receipt in the heuristic model that you select for the item. If you're using a periodic costing model, you can use marking to override the heuristic cost.
+Yes. A purchase order return is an issue that is settled to a receipt in the heuristic model that you select for the item. If you're using a periodic costing model, you can use marking to override the heuristic cost.
 
 ### What happens to sales order returns during the inventory close?
 
